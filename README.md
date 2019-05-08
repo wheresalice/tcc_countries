@@ -1,5 +1,7 @@
 # TccCountries
 
+[![Build Status](https://cloud.drone.io/api/badges/WheresAlice/tcc_countries/status.svg)](https://cloud.drone.io/WheresAlice/tcc_countries)
+
 This gem gives you all of the countries recognised by the Travelers Century Club (TCC), organised by region.
 
 This data comes from [their website](https://travelerscenturyclub.org/countries-and-territories) and exists here purely to save you from having to parse this out yourself.
