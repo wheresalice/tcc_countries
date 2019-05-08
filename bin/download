@@ -16,17 +16,17 @@ tcc = {}
 # The various regions are printed in a table cell which is center-aligned
 REGIONS = document.xpath("//td[@align='center']").map{|a| a.content.sub(/\(\d+\)/, '').strip.downcase }.freeze
 
-# The countries are all listed in two cells of valign=top, following the region header
-country_blocks = document.xpath("//td[@valign='top']")
+# The countries are all listed lists, within two cells of valign=top, following the region header
+country_blocks = document.css('td[valign=top] ul')
 
 # Loop through the country blocks two at a time and join them into an array
 # Store them into the tcc hash, using the region name from REGIONS as a key
 # Increment region_index each time to get the next region name
 region_index = 0
 country_blocks.each_slice(2) do |pair|
-  left = pair[0].content.split("\n")
-  right = pair[1].content.split("\n")
-  countries = (left + right).reject{|country| country == ''}
+  left = pair[0].children.map{|c| c.text.gsub("\n","")}.reject{|c| c == ""}
+  right = pair[1].children.map{|c| c.text.gsub("\n","")}.reject{|c| c == ""}
+  countries = (left + right)
   tcc[REGIONS[region_index]] = countries
   region_index += 1
 end
