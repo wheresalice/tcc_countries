@@ -18,4 +18,11 @@ RSpec.describe TccCountries do
     expect(TccCountries::COUNTRIES.keys.sort).to eq TccCountries::REGIONS
     expect(TccCountries::COUNTRIES.values.flatten.sort).to eq TccCountries.all
   end
+
+  it "only includes well-formatted countries" do
+    countries_with_bad_parenthesis = TccCountries.all.select do |country|
+      country.match /\((?![^)]+\))/
+    end
+    expect(countries_with_bad_parenthesis).to be_empty
+  end
 end
