@@ -16,8 +16,8 @@ tcc = {}
 # The various regions are printed in a table cell which is center-aligned
 REGIONS = document.xpath("//td[@align='center']").map{|a| a.content.sub(/\(\d+\)/, '').strip.downcase }.freeze
 
-# The countries are all listed in two cells of 50% width, following the region header
-country_blocks = document.xpath("//td[@width='50%']")
+# The countries are all listed in two cells of valign=top, following the region header
+country_blocks = document.xpath("//td[@valign='top']")
 
 # Loop through the country blocks two at a time and join them into an array
 # Store them into the tcc hash, using the region name from REGIONS as a key

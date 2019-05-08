@@ -186,6 +186,15 @@ europe & mediterranean:
 - Vatican City
 - Wales
 antarctica:
+- Argentine Antarctica (Antarctic Peninsula)
+- Australian Antarctic Territory (Mawson, Davis, Macquarie, Heard)
+- British Antarctic Territory (Graham Land, South Orkney, South Shetland)
+- Chilean Antarctic Territory (Antarctic Peninsula)
+- French Southern & Antarctic Lands (Adélie Land, Kerguelen, Amsterdam, St. Paul,
+  Crozet, Îles Éparses)
+- Norwegian Dependencies (Queen Maud Land, Bouvet)
+- New Zealand Antarctica (Ross Dependency)
+africa:
 - Algeria
 - Angola
 - Benin (Dahomey)
@@ -241,7 +250,7 @@ antarctica:
 - Zambia (No. Rhodesia)
 - Zanzibar
 - Zimbabwe (So. Rhodesia)
-africa:
+middle east:
 - Abu Dhabi
 - Ajman
 - Bahrain
@@ -263,7 +272,7 @@ africa:
 - Syria
 - Umm Al Qaiwain
 - Yemen
-middle east:
+indian ocean:
 - Andaman-Nicobar Islands
 - British Indian Ocean Territory (Chagos Archipelago, Diego Garcia)
 - Christmas Island
@@ -279,7 +288,7 @@ middle east:
 - Seychelles
 - Socotra
 - Zil Elwannyen Sesel (Aldabra, Farquhar, Amirante Islands)
-indian ocean:
+asia:
 - Abkhazia
 - Afghanistan
 - Armenia (Yerevan)

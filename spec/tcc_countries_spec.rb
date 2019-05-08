@@ -10,7 +10,7 @@ RSpec.describe TccCountries do
 
   it "lists all regions" do
     expect(TccCountries::REGIONS).to be_a Array
-    expect(TccCountries::REGIONS.length).to eq 11 # this seems unlikely to change
+    expect(TccCountries::REGIONS.length).to eq 12 # this seems unlikely to change
   end
 
   it "lists countries by regions" do
