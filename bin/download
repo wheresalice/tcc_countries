@@ -32,4 +32,4 @@ country_blocks.each_slice(2) do |pair|
 end
 
 # Write out to tcc.yaml in the data directory
-File.write(File.join(File.dirname(__FILE__), '..','data','tcc.yaml'), tcc.to_yaml)
+File.write(File.join(File.dirname(__FILE__), '..','data','tcc.yaml'), tcc.to_yaml(options = {:line_width => -1}))
