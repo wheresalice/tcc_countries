@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    tcc_countries (0.3.0)
+    tcc_countries (0.4.0)
 
 GEM
   remote: https://rubygems.org/
@@ -36,4 +36,4 @@ DEPENDENCIES
   tcc_countries!
 
 BUNDLED WITH
-   1.17.2
+   1.17.3
