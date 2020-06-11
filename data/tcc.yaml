@@ -2,39 +2,39 @@
 pacific ocean:
 - Austral Islands
 - Australia
-- Bismarck Archipelago (New Ireland, New Britain, Bougainville, Admiralty Islands)
+- Bismarck Archipelago (Admiralty Islands, Bougainville, New Britain, New Ireland)
 - Chatham Islands
-- Cook Islands (Rarotonga, Aitutaki, Penrhyn)
+- Cook Islands (Aitutaki, Penrhyn, Rarotonga)
 - Easter Island
 - Fiji Islands
-- French Polynesia (Tahiti,Tuamotu, Austral, Gambier)
+- French Polynesia (Gambier, Tahiti, Tuamotu)
 - Galapagos Islands
 - Guam
 - Hawaiian Islands
 - Juan Fernandez Islands (Robinson Crusoe Island)
-- Kiribati (Gilberts,Tarawa, Ocean Island)
-- Line/Phoenix Islands (Fanning, Christmas, Canton, Enderbury)
+- Kiribati (Gilberts, Tarawa, Ocean Island)
+- Line/Phoenix Islands (Canton, Christmas, Enderbury, Fanning)
 - Lord Howe Island
 - Marquesas Islands
-- Marshall Islands, Republic of (Majuro, Kwajalein, Eniwetok)
-- Micronesia, Fed.States of (Pohnpei, Kosrae, Chuuk,Yap,Caroline Islands)
+- Marshall Islands, Republic of (Eniwetok, Kwajalein, Majuro)
+- Micronesia, Fed.States of (Caroline Islands, Chuuk, Kosrae, Pohnpei, Yap)
 - Midway Island
 - Nauru
-- New Caledonia & Deps. (Noumea, Loyalty Islands)
+- New Caledonia & Dependencies (L’Île-des-Pins, Loyalty Islands)
 - New Zealand
 - Niue
 - Norfolk Island
 - Northern Marianas (Saipan, Tinian)
-- Ogasawara (Bonin, Volcano Island, Iwo Jima)
+- Ogasawara (Bonin, Iwo Jima, Volcano Island)
 - Palau, Republic of
 - Papua New Guinea
 - Pitcairn Island
 - Ryukyu Islands (Okinawa)
-- Samoa, American (Pago Pago)
-- Samoa (Apia)
-- Solomon Islands (Guadalcanal, New Georgia,Tulagi)
+- Samoa, American
+- Samoa
+- Solomon Islands (Guadalcanal, New Georgia, Tulagi)
 - Tasmania
-- Tokelau Islands (Fakaofu, Atafu, Union)
+- Tokelau Islands (Atafu, Fakaofu, Union)
 - Tonga (Nukualofa)
 - Tuvalu (Ellice Island, Funafuti, Vaitapu)
 - Vanuatu (New Hebrides Islands)
@@ -48,7 +48,7 @@ north america:
 - St. Pierre & Miquelon
 - United States (Contiguous)
 central america:
-- Belize (British Honduras)
+- Belize
 - Costa Rica
 - El Salvador
 - Guatemala
@@ -63,11 +63,11 @@ south america:
 - Colombia
 - Ecuador
 - French Guiana
-- Guyana (British Guiana)
+- Guyana
 - Nueva Esparta (Margarita Island)
 - Paraguay
 - Peru
-- Suriname (Netherlands Guiana)
+- Suriname
 - Uruguay
 - Venezuela
 caribbean:
@@ -82,21 +82,21 @@ caribbean:
 - Curacao
 - Dominica
 - Dominican Republic
-- Grenada & Deps. (Carriacou, Grenadines)
-- Guadeloupe & Deps. (Marie Galante)
+- Grenada & Dependencies (Carriacou, Grenadines)
+- Guadeloupe & Dependencies (Marie Galante)
 - Haiti
 - Jamaica
 - Martinique
 - Montserrat
 - Puerto Rico
 - Saba & Sint Eustatius
-- Saint-Barthélemy
-- Saint-Martin (France)
-- San Andres & Providencia
-- Sint Maarten (Netherlands)
+- St. Barthélemy
 - St. Kitts & Nevis
 - St. Lucia
+- St. Martin (France)
 - St. Vincent & the Grenadines
+- San Andres & Providencia
+- Sint Maarten (Netherlands)
 - Trinidad & Tobago
 - Turks & Caicos Islands
 - Virgin Islands, British (Tortola, etc.)
@@ -117,11 +117,11 @@ atlantic ocean:
 - St. Helena
 - Tristan da Cunha
 europe & mediterranean:
-- Aland Islands (Mariehamn)
+- Aland Islands
 - Albania
 - Andorra
 - Austria
-- Balearic Islands (Mallorca, Minorca)
+- Balearic Islands (Ibiza, Mallorca, Minorca)
 - Belarus
 - Belgium
 - Bosnia & Herzegovina
@@ -142,14 +142,14 @@ europe & mediterranean:
 - Gibraltar
 - Greece
 - Greek Aegean Islands (Cyclades, Dodecanese,Northern Aegean Islands)
-- Guernsey & Deps. (Alderney, Herm, Sark, Channel Islands)
+- Guernsey & Dependencies (Alderney, Herm, Sark)
 - Hungary
 - Ionian Islands (Corfu, etc.)
 - Ireland (Eire)
-- Ireland, Northern (Ulster)
+- Ireland, Northern
 - Isle of Man
 - Italy
-- Jersey (Channel Islands)
+- Jersey
 - Kaliningrad
 - Kosovo
 - Lampedusa
@@ -187,46 +187,47 @@ europe & mediterranean:
 - Wales
 antarctica:
 - Argentine Antarctica (Antarctic Peninsula)
-- Australian Antarctic Territory (Mawson, Davis, Macquarie, Heard)
-- British Antarctic Territory (Graham Land, South Orkney, South Shetland)
+- Australian Antarctic Territory (Davis, Heard, Macquarie, Mawson)
+- British Antarctic Territory (Antarctic Peninsula, Graham Land, South Orkney, South Shetland)
 - Chilean Antarctic Territory (Antarctic Peninsula)
-- French Southern & Antarctic Lands (Adélie Land, Kerguelen, Amsterdam, St. Paul, Crozet, Îles Éparses)
-- Norwegian Dependencies (Queen Maud Land, Bouvet)
+- French Antarctica (Adélie, Kerguelen)
 - New Zealand Antarctica (Ross Dependency)
+- Norwegian Dependencies (Bouvet, Queen Maud Land)
 africa:
 - Algeria
 - Angola
-- Benin (Dahomey)
-- Botswana (Bechuanaland)
-- Burkina Faso (Upper Volta)
-- Burundi (Urundi)
+- Benin
+- Botswana
+- Burkina Faso
+- Burundi
 - Cabinda
 - Cameroon
 - Central African Republic
 - Chad
-- Democratic Republic of the Congo (Kinshasa)
-- Republic of the Congo (Brazzaville)
+- Congo, Democratic Republic of (Kinshasa)
+- Congo, Republic of (Brazzaville)
+- Côte d’Ivoire (Ivory Coast)
 - Djibouti
 - Egypt in Africa
 - Equatorial Guinea (Bioko)
 - Equatorial Guinea (Rio Muni)
 - Eritrea
+- Eswatini (Swaziland)
 - Ethiopia
 - Gabon
-- Gambia
-- Ghana (Gold Coast, British Togoland)
-- Guinea (French Guinea)
+- Gambia, The
+- Ghana
+- Guinea
 - Guinea-Bissau
-- Ivory Coast
 - Kenya
-- Lesotho (Basutoland)
+- Lesotho
 - Liberia
 - Libya
-- Malawi (Nyasaland)
+- Malawi
 - Mali
 - Mauritania
 - Morocco
-- Morocco,Spanish (Ceuta, Melilla)
+- Morocco, Spanish (Ceuta, Melilla)
 - Mozambique
 - Namibia
 - Niger
@@ -240,15 +241,14 @@ africa:
 - South Africa
 - South Sudan
 - Sudan
-- Swaziland (Eswatini)
-- Tanzania (Tanganyika)
+- Tanzania
 - Togo
 - Tunisia
 - Uganda
-- Western Sahara (Spanish Sahara)
-- Zambia (No. Rhodesia)
+- Western Sahara
+- Zambia
 - Zanzibar
-- Zimbabwe (So. Rhodesia)
+- Zimbabwe
 middle east:
 - Abu Dhabi
 - Ajman
@@ -276,22 +276,22 @@ indian ocean:
 - British Indian Ocean Territory (Chagos Archipelago, Diego Garcia)
 - Christmas Island
 - Cocos (Keeling) Islands
-- Comoros (Anjouan, Moheli, Grand Comoro)
+- Comoros (Anjouan, Grand Comoro, Moheli)
 - Lakshadweep
 - Madagascar
 - Maldives
 - Mauritius & Dependencies (Agalega, St. Brandon)
 - Mayotte (Dzaoudzi)
-- Reunion & Dependencies (Tromelin, Glorioso)
+- Reunion
 - Rodrigues Island
 - Seychelles
 - Socotra
-- Zil Elwannyen Sesel (Aldabra, Farquhar, Amirante Islands)
+- Zil Elwannyen Sesel (Aldabra, Amirante Islands, Farquhar)
 asia:
 - Abkhazia
 - Afghanistan
-- Armenia (Yerevan)
-- Azerbaijan (Baku)
+- Armenia
+- Azerbaijan
 - Bangladesh
 - Bhutan
 - Brunei
@@ -311,7 +311,7 @@ asia:
 - Korea, South
 - Kyrgyzstan
 - Laos
-- Lesser Sunda Islands (Bali,Timor, Indonesia)
+- Lesser Sunda Islands (Bali, Timor, Indonesia)
 - Macau
 - Malaysia
 - Maluku Islands
